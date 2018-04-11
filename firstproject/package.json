@@ -1,0 +1,9 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "author": "BashkoAnastasya",
+  "dependencies": {
+    "protractor": "^5.3.1",
+    "webdriver-manager": "^12.0.6"
+  }
+}
